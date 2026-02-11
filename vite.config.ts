@@ -13,7 +13,4 @@ export default defineConfig({
     },
   },
   base: "/",
-    devServer: {
-    historyApiFallback: true
-  }
 });
