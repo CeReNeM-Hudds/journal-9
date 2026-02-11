@@ -1,8 +1,8 @@
-import { createRouter, createWebHashHistory } from "vue-router";
+import { createRouter, createWebHHistory } from "vue-router";
 import "../global.css";
 
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHHistory(),
   routes: [
     {
       path: "/",
